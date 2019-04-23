@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+<PropertyGroup>
+    <DebugType>pdbonly</DebugType>
+</PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="11.0.2" />
+<<<<<<< HEAD
+    <PackageReference Include="Polly" Version="7.1.0" />
+=======
+>>>>>>> 1948cc2fb01ecba111675272d5f13a0034c03987
+  </ItemGroup>
+
+</Project>
